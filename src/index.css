@@ -28,8 +28,27 @@ h1 {
   width: 50%;
 }
 
+.bottle.fixed{
+  position: fixed;
+}
+
+.bottle img {
+  position: relative;
+  z-index: 1;
+  display: none;
+}
 
 
+.fluid{
+  max-width: 25%;
+  height: auto;
+  margin: auto;
+}
+
+.map-container{
+  width: 25%;
+  height: 25vh;
+}
 
 @media (prefers-color-scheme: light) {
   :root {
