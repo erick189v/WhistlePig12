@@ -13,6 +13,7 @@ import Story from './components/Story';
 import './App.css'
 import Maps from './components/Maps';
 import Experiencing from './components/Experiencing';
+import {slides} from "./cocktail.json";
 
 function App() {
   return (
@@ -25,7 +26,7 @@ function App() {
       <WhistlePig/>
       <Ingredients/>
       <Story/>
-      <Experiencing/>
+      <Experiencing data={slides}/>
       <Maps />
 
     </div>

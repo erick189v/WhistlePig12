@@ -1,5 +1,6 @@
-[
-    {
+{
+    "slides": [
+        {
       "name": "Maple Old Fashion",
       "recipe": "https://www.whistlepigwhiskey.com/cocktails/maple-old-fashioned",
       "description": "Our Maple Old Fashioned Cocktail Recipe is simple and delicious, a nod to a classic with a Vermont twist. WhistlePig PiggyBack is crafted with a mash bill of 100% Rye giving it 100% full flavor to stand up in our signature cocktail -the Maple Old Fashioned.",
@@ -9,97 +10,98 @@
     {
       "name": "Maple Bourbon Sour",
       "recipe": "https://www.whistlepigwhiskey.com/cocktails/maple-bourbon-sour",
-      "Ingredients": "http://www.github.com/username/reponame",
+      "Ingredients": "2 oz PiggyBack 100 Proof Bourbon, ¾ oz WhistlePig Barrel Aged Maple Syrup, 1 oz freshly squeezed Lemon Juice, 2 Dashes Bitters, 1 Egg White, Fresh Orange Peel or Cherry for garnish",
       "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/633e5dd333b9f5a2bf1ff82a_MapleBourbonSour_Recipe-MainImage-1440x1024-p-500.jpg"
     },
     {
         "name": "RyeBall",
         "recipe": "https://www.whistlepigwhiskey.com/cocktails/ryeball",
-        "Ingredients": "",
+        "Ingredients": "1 ½ oz PiggyBack 100% Rye, ¼ oz WhistlePig Barrel Aged Maple Syrup, 3 Dashes Maple Bitters, Club Soda, Fresh Lemon Peel for Garnish",
         "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/633e63b8066c910200404bda_Ryeball_Recipe-MainImage-1440x1024-p-500.jpg"
       }, 
       {
         "name": "Vermont Mule",
         "recipe": "https://www.whistlepigwhiskey.com/cocktails/vermont-mule",
-        "Ingredients": "",
+        "Ingredients": "2 oz PiggyBack 100% Rye (or PiggyBack 100 Proof Bourbon), 4 oz Ginger Beer, ½ Lime, squeezed, Lime Wedge for garnish",
         "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/620a7d1c55b96579c924c371_Firefly%20mule%20main-p-500.jpeg"
       },
        {
         "name": "Here's To You Old Pal",
         "recipe": "https://www.whistlepigwhiskey.com/cocktails/heres-to-you-old-pal",
-        "Ingredients": "",
+        "Ingredients": "1 ½ oz PiggyBack 100% Rye, ¾ oz Dry Vermouth, ¾ oz Campari, Lemon Peel for garnish",
         "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/620a7c3ad36a01175fd726fa_Here%E2%80%99s%20to%20you%20old%20pal%20main.jpg"
       },
        {
         "name": "Smoked Lemonade",
         "recipe": "https://www.whistlepigwhiskey.com/cocktails/smoked-lemonade",
-        "Ingredients": "",
+        "Ingredients": "1 ½ oz PiggyBack 100% Rye, 1 oz Fresh Lemon Juice, 1 oz Simple Syrup, 1 Candied Lemon for garnish",
         "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/633efe49eb698e3366f94652_SmokedLemonade_Recipe-MainImage-1440x1024-p-500.jpg"
       },
        {
         "name": "Maple New York Sour",
-        "recipe": "",
-        "Ingredients": "",
+        "recipe": "https://www.whistlepigwhiskey.com/cocktails/maple-new-york-sour",
+        "Ingredients": "2 oz PiggyBack 100% Rye, ½ oz WhistlePig Barrel Aged Maple Syrup, 1 oz Lemon Juice, ½ oz Fruity Red Wine",
         "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/633f0e3f62b7380310db812c_MapleNewYorkSour_Recipe-MainImage-1440x1024-p-500.jpg"
       },
       {
         "name": "Paper Pig",
-        "recipe": "",
-        "Ingredients": "",
+        "recipe": "https://www.whistlepigwhiskey.com/cocktails/paper-pig",
+        "Ingredients": "¾ oz PiggyBack 100 Proof Bourbon, ¾ oz Aperol, ¾ oz Amaro Nonino, ¾ oz Lemon Juice, DIY Paper Pig for garnish",
         "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/64f21dfda49c9d8d26995e3f_PaperPig_Recipe-MainImage-1440x1024-p-500.jpg"
       },
       {
         "name": "Piggy On Fire",
-        "recipe": "",
-        "Ingredients": "",
+        "recipe": "https://www.whistlepigwhiskey.com/cocktails/piggy-on-fire",
+        "Ingredients": "1 ½ oz PiggyBack 100% Rye, ¾ oz Barrel-Aged Maple Syrup, ¾ oz Lemon Juice, 2 dashes Habanero Bitters, 5 dashes Cocktail Foam, 1 pinch of Fresh Cracked Pepper for garnish, 1 Dried Lemon for garnish",
         "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/64513c25f5df031894027246_PiggyOnFire_Recipe-MainImage-1440x1024-p-500.jpg"
       },
       {
         "name": "Ryerita",
-        "recipe": "",
-        "Ingredients": "",
+        "recipe": "https://www.whistlepigwhiskey.com/cocktails/rye-rita",
+        "Ingredients": "1 ½ oz PiggyBack 100% Rye, ½ oz Ancho Reyes, ¼ oz Lime Juice, ¼ oz Lemon Juice, ¼ oz Orange Juice, ¼ oz Simple Syrup, 3 dashes Fee Bros Orange Bitters, Lime Cup filled with 151 Rum",
         "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/633e75ff58c29d37a688eb04_Ryerita_Recipe-MainImage-1440x1024-p-500.jpg"
       },
       {
         "name": "Pig Viper",
-        "recipe": "",
-        "Ingredients": "",
+        "recipe": "https://www.whistlepigwhiskey.com/cocktails/pig-viper",
+        "Ingredients": "2 oz PiggyBack 100% Rye, ¾ oz Lime Juice, ¾ oz Grapefruit Juice, ½ oz WhistlePig Barrel Aged Maple Syrup, ½ oz Falernum, 2 Dashes Angostura, Grapefruit Twist and Mint Sprig for garnish",
         "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/6488a0a08bdd6398a11c55d4_PigViper_Recipe-MainImage-1440x1024-p-500.jpg"
       },
       {
         "name": "Eggless Whiskey Sour",
-        "recipe": "",
-        "Ingredients": "",
+        "recipe": "https://www.whistlepigwhiskey.com/cocktails/eggless-whiskey-sour",
+        "Ingredients": "2 oz PiggyBack 100 Proof Bourbon, 1 oz Fresh Lemon Juice, ¾ oz WhistlePig Barrel Aged Maple Syrup, ½ oz Liquid Aquafaba, 6 grains of Salt (or 1-2 drops of 6:1 Saline), Ice, Luxardo Cherries and Lemon Peel for garnish",
         "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/641b75a4d1945c0e16b4c24c_EgglessSour_Recipe-MainImage-1440x1024-p-500.jpg"
       },
       {
         "name": "Dirty Shirley",
-        "recipe": "",
-        "Ingredients": "",
+        "recipe": "https://www.whistlepigwhiskey.com/cocktails/dirty-shirley",
+        "Ingredients": "2 oz PiggyBack 100% Rye, 1 oz Grenadine, 8 oz Lemon-Lime Soda, Maraschino Cherries for garnish",
         "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/633e65ee6f62fb217d567f7b_DirtyShirley_Recipe-MainImage-1440x1024.jpg"
       },
       {
         "name": "This Lil' Piggy",
-        "recipe": "",
-        "Ingredients": "",
+        "recipe": "https://www.whistlepigwhiskey.com/cocktails/this-lil-piggy",
+        "Ingredients": "2 oz WhistlePig PiggyBack Rye, ¾ oz Chinato, ¼ oz Sakura, 3 dashes Black Walnut Bitters, Cocktail Cherry for garnish",
         "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/620a80dd8d332d04e023e222_and%20this%20lil%E2%80%99%20piggy.jpg"
       },
       {
         "name": "Starlino Manhattan",
-        "recipe": "",
-        "Ingredients": "",
+        "recipe": "https://www.whistlepigwhiskey.com/cocktails/starlino-manhattan",
+        "Ingredients": "2 oz PiggyBack 100% Rye, 1 oz Starlino Rosso Vermouth, 2 dashes Angostura Bitters, Starlino Maraschino Cherries for garnish",
         "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/633e790ba9588e528c216851_StarlinoManhattan_Recipe-MainImage-1440x1024.jpg"
       },
       {
         "name": "Mr. Black Cold Fashioned",
-        "recipe": "",
-        "Ingredients": "",
+        "recipe": "https://www.whistlepigwhiskey.com/cocktails/mr-black-old-fashioned",
+        "Ingredients": "2 oz Mr Black Coffee Liqueur, ½ oz PiggyBack 100% Rye, 2 Dashes Orange Bitters, Fresh Orange Peel for Garnish",
         "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/620a7ff23488e27842282f86_Mr.%20Black%20old%20fashioned.jpg"
       },
       {
         "name": "Carpano Classico Manhattan",
-        "recipe": "",
-        "Ingredients": "",
+        "recipe": "https://www.whistlepigwhiskey.com/cocktails/carpano-classico-manhattan",
+        "Ingredients": "2 oz PiggyBack 100% Rye, 1 oz Carpano Classico Vermouth, 2 dashes Angostura Bitters, Cocktail Cherries for garnish",
         "image": "https://assets-global.website-files.com/61f27a53fd39a15d7eed0e9c/620a7fafc42ced0197a9cea7_Carpano%20Classico%20Manhattan.jpg"
       }
-  ]
+    ]
+}
