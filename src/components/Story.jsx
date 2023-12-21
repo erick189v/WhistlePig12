@@ -2,7 +2,7 @@ import React from "react";
 
 function Story(){
     return(
-        <div>
+        <div id="story">
             <section id="Story">
                 <div>
                     <h1>It All Begins With Rye</h1>

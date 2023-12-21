@@ -119,6 +119,13 @@ h1 {
   height: 25vh;
 }
 
+section{
+  display: grid;
+  place-items: center;
+  align-content: center;
+  min-height: 100vh;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;

@@ -14,10 +14,10 @@ function Navbar(){
                     <span></span>
                 </label>
                 <ul>
-                    <li><Link>WhistlePig</Link></li>
-                    <li><Link>Story</Link></li>
-                    <li><Link>Ingredients</Link></li>
-                    <li><Link>Experiencing</Link></li>
+                    <li><Link to="whistlePig" spy={true} smooth={true} offset={50} duration={500}>WhistlePig</Link></li>
+                    <li><Link to="story" spy={true} smooth={true} offset={50} duration={500}>Story</Link></li>
+                    <li><Link to="ingredients" spy={true} smooth={true} offset={50} duration={500}>Ingredients</Link></li>
+                    <li><Link to="experiencing" spy={true} smooth={true} offset={50} duration={500}>Experiencing</Link></li>
                 </ul>
             </nav>
         </div>

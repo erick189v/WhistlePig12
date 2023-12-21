@@ -15,7 +15,7 @@ function Experiencing({data}){
     };
 
     return(
-        <div>
+        <div id="experiencing">
             <section id="Experiencing">
                 <div className="Experiencing">
                     <h1>Tasting Notes</h1>
