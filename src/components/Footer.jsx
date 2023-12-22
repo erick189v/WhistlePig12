@@ -8,7 +8,7 @@ function Footer(props) {
         <img src={WhistlePigWhiskeyLogo} alt="WhistlePig Whiskey Logo" className="mx-auto" />
       </div>
       <p>2023</p>
-      <h1>Footer</h1>
+      <h1></h1>
     </div>
   );
 }

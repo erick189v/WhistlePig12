@@ -34,3 +34,6 @@ For an overview of our project management and progress, check out our Trello boa
 [WhistlePig Whiskey Trello Board](https://trello.com/b/P9CO5HjC/whiskey)
 
 
+## Sources for Coding Inspiration
+- [Smooth Scrolling Tutorial](https://www.youtube.com/watch?v=QzW03hyw_bU)
+- [Carousel Image Tutorial](https://youtu.be/QpsGo8kZiTo?si=2_gCJs92H1Fi4c1i)

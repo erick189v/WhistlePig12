@@ -19,8 +19,8 @@ function App() {
   return (
     <>
     <Header />
-    <div class="fixed bottle">
-      <img class="fluid" src="src/assets/WhistlePig12bottle.png" alt="bottle"/>
+    <div className="fixed bottle">
+      <img className="fluid" src="src/assets/WhistlePig12bottle.png" alt="bottle"/>
     </div>
     <div className='App'>
       <WhistlePig/>
